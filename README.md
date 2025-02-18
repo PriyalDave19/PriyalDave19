@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Nursery Web-App Maven Project**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm,HTML,CSS.**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,BootStrap,JQuery**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java Programming Language**
 
 - 📫 How to reach me **paridave90@gmail.com**
 

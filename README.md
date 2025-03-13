@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://komarev.com/ghpvc/?username=PriyalDave19&label=Visit+Count&color=d940ff&style=plastic" alt="PriyalDave19
 " />
 <!-- My Introduction -->
-<h1 align="center">Helloo!! <img src="waving_hand (1).png" width="36" />, I'm Priyal Dave</h1>
+<h1 align="center">Helloo!! <img src="waving_hand.png" width="36" />, I'm Priyal Dave</h1>
 <h3 align="center">A Passionate Tech Enthusiast & Emerging Java Developer from Madhya Pradesh, India.</h3>
 
 <!-- Dynamic Typing Animation -->

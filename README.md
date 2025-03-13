@@ -96,7 +96,7 @@ href="https://www.naukri.com/mnjuser/profile?state=source%3Dcn&source=code_studi
 
 <!-- Banner -->
 <hr/>
-<img align="center" alt="Banner" src="c:\Users\parid\Downloads\banner.png" />
+<img align="center" alt="Banner" src="./banner.png" />
 
 <!-- Footer -->
 <img align="center" alt="Footer" src="./footer.svg" />

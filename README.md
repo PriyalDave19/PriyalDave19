@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=30&width=425&height=70&duration=4000&pause=1000&color=D940FF&lines=Programming+Concepts;Java+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=30&width=425&height=70&duration=4000&pause=1000&color=D940FF&lines=  Programming+Concepts;Full+Stack+Java+Development" alt="Typing Animation" />
 </div>
 <br/>
 

@@ -88,11 +88,11 @@ href="https://www.naukri.com/mnjuser/profile?state=source%3Dcn&source=code_studi
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=PriyalDave19&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PriyalDave19&count_private=true&theme=neon-dark&border_radius=10" alt="Streak Stats"/>
   <br/>
-  Top Language Chart
-  <img width=325 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PriyalDave19&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <!-- Top Language Chart -->
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PriyalDave19&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaldave19&show_icons=true&locale=en&layout=compact&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="priyaldave19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaldave19&show_icons=true&locale=en&layout=compact" alt="priyaldave19" /></p>
 
 
 </div>

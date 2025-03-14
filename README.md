@@ -1,30 +1,101 @@
-<h1 align="center">Hi 👋, I'm Priyal dave</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<!--
+*PriyalDave19/PriyalDave19* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaldave19&label=Profile%20views&color=0e75b6&style=flat" alt="priyaldave19" /> </p>
+Here are some ideas to get you started:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyaldave19" alt="priyaldave19" /></a> </p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!-- Dynamic Profile Views Count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=PriyalDave19&label=Visit+Count&color=d940ff&style=plastic" alt="PriyalDave19
+" />
+<!-- My Introduction -->
+<h1 align="center">Helloo!! <img src="waving_hand.png" width="36" />, I'm Priyal Dave</h1>
+<h3 align="center">A Passionate Tech Enthusiast & Emerging Java Developer from Madhya Pradesh, India.</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=30&width=425&height=70&duration=4000&pause=1000&color=D940FF&lines=Programming+Concepts;Full+Stack+Java+Development" alt="Typing Animation" />
+</div>
+<br/>
 
-- 🌱 I’m currently learning *HTML,CSS,JavaScript,Bootstrap,JQuery.*
+<!-- Details About Me -->
+- 🔭 I’m currently working on *Java Development*
 
-- 💬 Ask me about *Java Programming Language*
+- 🌱 I’m currently learning the *Java Full Stack*
 
-- 📫 How to reach me *paridave90@gmail.com*
+- 👯 I’m looking to collaborate on *Backend*
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-MGSMO-a9IyhJW8s_2HU7ZIVWLTcYSxZ/edit?usp=sharing&ouid=114776624751939431804&rtpof=true&sd=true](https://docs.google.com/document/d/1-MGSMO-a9IyhJW8s_2HU7ZIVWLTcYSxZ/edit?usp=sharing&ouid=114776624751939431804&rtpof=true&sd=true)
+- 🤝 I’m looking for help with *Java*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/priyal-dave-637158294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyal-dave-637158294" height="30" width="40" /></a>
-</p>
+- 💬 Ask me about *Basics of Programming and Java Programming*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+- ⚡ Focus: *I want to explore, learn, & innovate.*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaldave19&show_icons=true&locale=en&layout=compact" alt="priyaldave19" /></p>
+- 📫 Language: *Hindi* & *English*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyaldave19&show_icons=true&locale=en" alt="priyaldave19" /></p>
+- 🌐 Let's *connect* and *grow* together.
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaldave19&" alt="priyaldave19" /></p>
+<!-- Social Links -->
+<div align="center"> 
+  <a href="mailto:paridave90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D6D6D6?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/PriyalDave19">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyal-dave-637158294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <br/>
+
+  <a href="https://leetcode.com/u/Priyal_Dave/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-FFAA33?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/paridab4vv/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-269933?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" />
+  </a>
+  <a
+href="https://www.naukri.com/mnjuser/profile?state=source%3Dcn&source=code_studio&campaign=manage_profile_code_studio&medium=desktop" target="_blank">
+    <img src="https://img.shields.io/badge/Code360-303030?style=for-the-badge&logo=codingninjas&logoColor=orange" target="_blank" />
+  </a>
+  <a href=https://www.codechef.com/users/priyaldave" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3E2626?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
+  </a>
+</div>
+<br/>
+
+
+<!-- Tools & Technologies -->
+<div align="center">
+    <h2>⚒ Tools & Technologies ⚒</h2>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,bootstrap,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=java,mysql" />
+</div>
+<br/><br/>
+
+
+<!-- My Profile Stats -->
+<div align=center>
+  <h2>📊 Statistics 📊</h2>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=PriyalDave19&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PriyalDave19&count_private=true&theme=neon-dark&border_radius=10" alt="Streak Stats"/>
+  <br/>
+  <!-- Top Language Chart -->
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PriyalDave19&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+</div>
+<br/><br/>
+
+<!-- Banner -->
+<hr/>
+<img align="center" alt="Banner" src="./banner.png" />
+
+<!-- Footer -->
+<img align="center" alt="Footer" src="./footer.svg" />
